@@ -1,6 +1,6 @@
 #defining a function 
 def fizzBuzz(n):
-    #checking that n is multiple of both 3&5 or not 
+    #checking that n is multiple of both 3 & 5 or not 
     if n % 3 == 0 and n % 5 == 0:
         print("FizzBuzz")
     #checking that n is multiple of 3 or not 
