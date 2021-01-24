@@ -8,4 +8,5 @@ otherwise when the number is divisible by 3, print “Fizz”
 
 otherwise when the number is divisible by 5, print “Buzz”
 
-otherwise, write the number as a string
+otherwise, write the number as a string. 
+
