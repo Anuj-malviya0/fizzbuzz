@@ -14,3 +14,5 @@ where:
 xn is term number "n"
 xn−1 is the previous term (n−1)
 xn−2 is the term before that (n−2)
+
+The script creates sequence up to n provided inside the function
