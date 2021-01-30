@@ -13,7 +13,8 @@ def series(n):
         b=c
         print(c)
 #running function 
-series(100)
+n = int(input('Enter how many numbers you want'))
+series(n)
 #palce holder variable (to hold the output window)
 s = input()
 
