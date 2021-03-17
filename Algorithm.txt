@@ -1,0 +1,9 @@
+Fibonacci Series Algorithm
+
+Initialize variables a,b to 0,1
+Initialize for loop in range[1,n] # n exclusive
+Compute next number in series; total = a+b
+store the value of a+b in c 
+Store the value of a in b
+Store hte value of c in b 
+dislay c 
