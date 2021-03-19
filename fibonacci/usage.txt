@@ -1,1 +1,2 @@
-This python script can be used as a function,which takes n as how many number you want and the function will return the fibonacci sequencw up to n 
+This python script can be used as a function,which takes n as how many number 
+you want and the function will return the fibonacci sequencw up to n 
