@@ -1,0 +1,4 @@
+This python script can be used as a timer or as a scheduler to run a praticualr task or program after 
+a definite time interval
+
+------------------------------------More features will be added soon----------------------------------
