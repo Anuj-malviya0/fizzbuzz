@@ -1,7 +1,9 @@
 # classic_problems
 Basic solution of classic problem 
 
- <hr /> 
+<hr /> 
+
+
 ## fibonacci_series
 The next number is found by adding up the two numbers before it:
 
@@ -30,3 +32,7 @@ If the number is divisible by 3, write Fizz instead of the number
 If the number is divisible by 5, write Buzz instead of the number
 
 If the number is divisible by 3 and 5 both, write FizzBuzz instead of the number
+
+## Timer
+A simple python script that can be used as a timer,It is a very useful script anf you can use it as a template and add some code after it so that the code
+gets executed after a particuar time ,or you can use it as a simple timer
