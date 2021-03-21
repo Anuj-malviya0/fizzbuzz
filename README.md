@@ -32,6 +32,7 @@ If the number is divisible by 3, write Fizz instead of the number
 If the number is divisible by 5, write Buzz instead of the number
 
 If the number is divisible by 3 and 5 both, write FizzBuzz instead of the number
+<hr/>
 
 ## Timer
 A simple python script that can be used as a timer,It is a very useful script anf you can use it as a template and add some code after it so that the code
