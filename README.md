@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # classic_problems
 Basic solution of classic problem 
 
@@ -37,3 +38,7 @@ If the number is divisible by 3 and 5 both, write FizzBuzz instead of the number
 ## Timer
 A simple python script that can be used as a timer,It is a very useful script anf you can use it as a template and add some code after it so that the code
 gets executed after a particuar time ,or you can use it as a simple timer
+=======
+## unit_converter
+_A simple unit converter script which converts different types of length and anyone want to contribute can contribute to make it more functional_
+>>>>>>> 75ee88aca4c8c5ad5ddc785ed6485a187c7eec2e
